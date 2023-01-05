@@ -1,4 +1,4 @@
-# LAVA Testnet Kurulum Rehberi
+# LAVA Network Testnet Kurulum Rehberi
 ![lava](https://lavanet.xyz/assets/banner.png)
 [Resmi WebSite](https://lavanet.xyz) \
 [Resmi GitHub](https://github.com/K433QLtr6RA9ExEq/GHFkqmTzpdNLDd6T.git)
